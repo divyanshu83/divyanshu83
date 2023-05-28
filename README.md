@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Raj</h1>
 <h3 align="center">Learning Web Development and Cyber Security Enthusiast</h3>
-<img align="right" alt="Hacking" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<img align="center" alt="Hacking" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu83&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu83" /> </p>
