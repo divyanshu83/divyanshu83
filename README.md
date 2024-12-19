@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨I am the Google Developer Student Club Lead at Heritage Institute of Technology .<br>🔭I am currently working on Static IP Locator.<br>💬 You can ask me about Cyber Security and Web Development.<br>📝 I regularly write articles on divyanshur12.hashnode.dev.
+✨I was the Google Developer Student Club Lead at Heritage Institute of Technology .<br>🔭I am currently working on Container Security.<br>💬 You can ask me about Cyber Security and Cloud.<br>📝 I regularly write articles on divyanshur12.hashnode.dev.
 
 
 ## 🌐 Socials:
